@@ -1,0 +1,15 @@
+after Hijack:
+- write 19 <handleValue> hex <data format> ??? <data>
+
+datas:
+001226e04e0b4f10d3dbd261a969ef7761f1
+
+0012c0e5686cc37008549313fa36d3197d01
+
+0012f4302c06aa1eba777246cf5c3390fbb4
+
+Handle Value Indication:
+First:
+0e00041997f026e41f7894be26b5f2f6c3f3ba63
+Second:
+0e000bf666f026e41f7894be26b5f2f6c3f3ba63
