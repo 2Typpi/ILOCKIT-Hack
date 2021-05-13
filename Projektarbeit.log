@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.13)  14 APR 2021 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.13)  13 MAY 2021 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -235,44 +235,90 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/01/09 v0.5r Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count269
+\calc@Bcount=\count270
+\calc@Adimen=\dimen149
+\calc@Bdimen=\dimen150
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count271
+\calc@Cskip=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen151
+\ESO@tempdimb=\dimen152
+)
+\AM@pagewidth=\dimen153
+\AM@pageheight=\dimen154
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/01/09 v0.5r Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count272
+\AM@pagebox=\box49
+\AM@global@opts=\toks19
+\AM@pagecnt=\count273
+\AM@toc@title=\toks20
+\c@AM@survey=\count274
+\AM@templatesizebox=\box50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count275
+\float@exts=\toks21
+\float@box=\box51
+\@float@everytoks=\toks22
+\@floatcapt=\box52
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count269
-\l__pdf_internal_box=\box49
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box53
 )
 (./Projektarbeit.aux)
 \openout1 = `Projektarbeit.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count270
-\scratchdimen=\dimen149
-\scratchbox=\box50
-\nofMPsegments=\count271
-\nofMParguments=\count272
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count273
-\MPscratchDim=\dimen150
-\MPnumerator=\count274
-\makeMPintoPDFobject=\count275
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count277
+\scratchdimen=\dimen155
+\scratchbox=\box54
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen156
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks24
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -282,7 +328,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 19.
+Package hyperref Info: Link coloring OFF on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -293,26 +339,36 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count276
+\c@section@level=\count283
 )
-LaTeX Info: Redefining \ref on input line 19.
-LaTeX Info: Redefining \pageref on input line 19.
-LaTeX Info: Redefining \nameref on input line 19.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
 
 (./Projektarbeit.out) (./Projektarbeit.out)
 \@outlinefile=\write3
 \openout3 = `Projektarbeit.out'.
 
-\c@lstlisting=\count277
+\c@lstlisting=\count284
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
- (./Projektarbeit.toc
+(Font)              <6> on input line 25.
+
+(./Projektarbeit.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 6.
+(Font)              <10.95> on input line 5.
 )
 \tf@toc=\write4
 \openout4 = `Projektarbeit.toc'.
@@ -320,40 +376,54 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<./images//Connection_BLE.jpg, id=80, 597.73312pt x 845.40843pt>
+<./images//Connection_BLE.jpg, id=80, 593.21625pt x 682.04813pt>
 File: ./images//Connection_BLE.jpg Graphic file (type jpg)
 <use ./images//Connection_BLE.jpg>
-Package pdftex.def Info: ./images//Connection_BLE.jpg  used on input line 47.
-(pdftex.def)             Requested size: 239.089pt x 338.15738pt.
- [2] [3 <./images//Connection_BLE.jpg>]
-Overfull \hbox (25.92033pt too wide) in paragraph at lines 71--72
+Package pdftex.def Info: ./images//Connection_BLE.jpg  used on input line 46.
+(pdftex.def)             Requested size: 237.28229pt x 272.8144pt.
+
+[2] [3pdfTeX warning (ext4): destination with the same identifier (name{figure.
+1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.59 		
+        <./images//Connection_BLE.jpg>] (./Projektarbeit.bbl [4]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+))
+Overfull \hbox (25.92033pt too wide) in paragraph at lines 92--93
 []\T1/cmr/m/n/10.95 https://www.rfwireless-world.com/Terminology/BLE-Connection
 -Establishment-
  []
 
-[4] (./Projektarbeit.aux)
+[5] (./Projektarbeit.aux)
 Package rerunfilecheck Info: File `Projektarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 3258601103094ED6929F7B5846519224;770.
+(rerunfilecheck)             Checksum: 9A9FEEA79C01C4083688007502C477B9;725.
  ) 
 Here is how much of TeX's memory you used:
- 7262 strings out of 481252
- 108515 string characters out of 5915888
- 412018 words of memory out of 5000000
- 24073 multiletter control sequences out of 15000+600000
- 412485 words of font info for 46 fonts, out of 8000000 for 9000
+ 8135 strings out of 481252
+ 122543 string characters out of 5915888
+ 428926 words of memory out of 5000000
+ 24905 multiletter control sequences out of 15000+600000
+ 413140 words of font info for 48 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 71i,8n,74p,739b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.60
-0pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.
-600pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx109
-5.600pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
-440.600pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecr
-m1200.600pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-crm1728.600pk>
-Output written on Projektarbeit.pdf (4 pages, 107629 bytes).
+ 71i,8n,74p,715b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.60
+0pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.
+600pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx120
+0.600pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
+095.600pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecb
+x1095.600pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+cbx1440.600pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec
+/ecrm1200.600pk> </home/marius/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm1728.600pk>
+Output written on Projektarbeit.pdf (5 pages, 162082 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
+ 381 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 500000)
  110 words of extra memory for PDF output out of 10000 (max. 10000000)
 

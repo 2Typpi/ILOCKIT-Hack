@@ -1,13 +1,13 @@
 \BOOKMARK [1][-]{section.1}{Motivation}{}% 1
 \BOOKMARK [1][-]{section.2}{Grundbegriffe}{}% 2
 \BOOKMARK [1][-]{section.3}{Problemstellung}{}% 3
-\BOOKMARK [1][-]{section.4}{Sicherheitsanalyse}{}% 4
-\BOOKMARK [1][-]{section.5}{Herangehensweisen}{}% 5
-\BOOKMARK [2][-]{subsection.5.1}{Bluetooth und Bluetooth Low Energy}{section.5}% 6
-\BOOKMARK [3][-]{subsubsection.5.1.1}{Advertising}{subsection.5.1}% 7
-\BOOKMARK [3][-]{subsubsection.5.1.2}{Discovery-Phase}{subsection.5.1}% 8
-\BOOKMARK [3][-]{subsubsection.5.1.3}{Connection-Phase}{subsection.5.1}% 9
-\BOOKMARK [3][-]{subsubsection.5.1.4}{Connected-Phase}{subsection.5.1}% 10
-\BOOKMARK [2][-]{subsection.5.2}{}{section.5}% 11
+\BOOKMARK [1][-]{section.4}{Bluetooth Technologie}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Advertising}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Discovery-Phase}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Connection-Phase}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.4}{Connected-Phase}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.5}{Security}{section.4}% 9
+\BOOKMARK [3][-]{subsubsection.4.5.1}{Pairing}{subsection.4.5}% 10
+\BOOKMARK [1][-]{section.5}{Sicherheitsanalyse}{}% 11
 \BOOKMARK [1][-]{section.6}{Umsetzung}{}% 12
 \BOOKMARK [1][-]{section.7}{Fazit/Ausblick}{}% 13
